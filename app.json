@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "BooksStore",
-    "slug": "BooksStore"
+    "slug": "BooksStore",
+    "extra": {
+      "eas": {
+        "projectId": "7405a43d-c292-46b5-abcf-5855fe5bf70d"
+      }
+    },
+    "android": {
+      "package": "com.wajahat_ali.BooksStore"
+    }
   }
 }
